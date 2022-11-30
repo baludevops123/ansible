@@ -1,3 +1,5 @@
-hosts
+hosts all
 ansible.cfg
+ping pong
 roles
+devops
